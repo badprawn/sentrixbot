@@ -1,4 +1,5 @@
-[Image](https://cdn.discordapp.com/attachments/1283728086713630784/1284886571027267706/SENTRIX_SYSTEMS_1.gif?ex=66f420de&is=66f2cf5e&hm=b0fb6fa7a26c5622288b5483254f010a63e1435766070df69fc1663fff6ea1a4&)  
+https://cdn.discordapp.com/attachments/1283728086713630784/1284886571027267706/SENTRIX_SYSTEMS_1.gif?ex=66f420de&is=66f2cf5e&hm=b0fb6fa7a26c5622288b5483254f010a63e1435766070df69fc1663fff6ea1a4&
+
 # SENTRIX Systems
 
 > **Built by** `badprawn` or DISCORD :  `_und3rsc0re`
