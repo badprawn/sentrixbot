@@ -16,6 +16,7 @@
 ## Features
 - Security (Coming Up)
 - Moderation (ONLINE)
+- Server Commands (ONLINE)
 - ERLC Management (SOON)
 - Staff Management (Coming Up)
 - Tickets (Coming Up)
