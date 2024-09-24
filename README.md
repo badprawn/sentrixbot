@@ -3,11 +3,8 @@
 # SENTRIX Systems
 
 > **Built by** `badprawn` or DISCORD :  `_und3rsc0re`
-<hr>
 > **Discord's #1 Multipurpose Bot.**
-<hr>
 > **Website :** https://sentrixbot.me
-<hr>
 > **Discord :** [https://discord.com/invite/pu7bwYSjgk](https://discord.gg/pu7bwYSjgk)
 <hr>
 
