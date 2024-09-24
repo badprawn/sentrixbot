@@ -11,7 +11,7 @@
 ## About Me
 > This bot was built by me to make people's life easier when they need to manage anything in their server,
 > We provide Security, Moderation, API Connected ERLC Management, Staff Management and much more.
-
+<hr>
 
 ## Features
 - Security (Coming Up)
@@ -21,6 +21,7 @@
 - Tickets (Coming Up)
 - Giveaway Manager (Coming Up)
 - Dashboard (Coming Up)
+<hr>
 
 ## Links
 > **Website :** https://sentrixbot.me
@@ -29,6 +30,7 @@
 If you don't trust the links, DM me. My username is `_und3rsc0re`
 
 ![SENTRIX SYSTEMS](https://cdn.discordapp.com/attachments/1283728086713630784/1284890695491915959/Sentrix_Systems.png?ex=66f37bf5&is=66f22a75&hm=bea2e31a301abfa1fcfad87396a7d39a305d2e961287e3aa330afde777c953ba&)
+<hr>
 
 Cheers,
 `_und3rsc0re`,
