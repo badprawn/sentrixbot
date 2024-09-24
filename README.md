@@ -1,4 +1,4 @@
-![SENTRIX SYSTEMS](https://github.com/user-attachments/assets/8460c7f7-e999-4b43-82b6-b6b54ffce834)
+![SENTRIX SYSTEMS]([https://github.com/user-attachments/assets/8460c7f7-e999-4b43-82b6-b6b54ffce834](https://cdn.discordapp.com/attachments/1283728086713630784/1284890695491915959/Sentrix_Systems.png?ex=66f37bf5&is=66f22a75&hm=bea2e31a301abfa1fcfad87396a7d39a305d2e961287e3aa330afde777c953ba&))
 
 # SENTRIX Systems
 
