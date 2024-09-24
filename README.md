@@ -5,8 +5,11 @@
 > **Built by** `badprawn` or DISCORD :  `_und3rsc0re`
 <hr>
 > **Discord's #1 Multipurpose Bot.**
+<hr>
 > **Website :** https://sentrixbot.me
+<hr>
 > **Discord :** [https://discord.com/invite/pu7bwYSjgk](https://discord.gg/pu7bwYSjgk)
+<hr>
 
 ## About Me
 > This bot was built by me to make people's life easier when they need to manage anything in their server,
