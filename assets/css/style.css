@@ -1,136 +1,56 @@
-body {
-  font-family: "poppins", serif;
-  margin: 0;
-  padding: 0;
-  background-color: rgb(0, 0, 0);
-  color: white;
+/* Set height to 100% for body and html to enable the background image to cover the whole page: */
+body{
+  font-family: 'Poppins', Serif;
 }
 
-.container {
-  margin: 50px;
-  margin-top: -0px;
-  margin-left: 10px;
+body, html {
+  height: 100%
 }
 
-.logo img {
-  max-width: 100px;
-  max-height: 100px;
-}
-
-.logo {
-  display: flex;
-  align-items: center;
-}
-
-.logo h1 {
-  margin-left: 30px;
-}
-
-nav {
-  background-color: rgb(0, 0, 0);
-  padding: 20px;
-  border-radius: 10px;
-  display: flex;
-}
-
-.menu ul {
-  display: flex;
-  justify-content: space-between;
-  color: white;
-  margin-left: 20px;
-}
-
-.menu ul li {
-  font-size: 20px;
-  list-style: none;
-  margin-right: 50px;
-  color: white;
-}
-
-.marketing-container {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 130px;
-}
-
-.marketing1 h1 {
-  font-size: 30px;
-  margin-top: 10px;
-}
-
-.marketing1 {
-  background-color: rgb(44, 44, 44);
-  padding: 20px;
-  border-radius: 10px;
-  width: 30%;
-  margin-left: 20px;
-}
-
-.footer {
-  background-color: rgb(0, 0, 0);
-  padding: 20px;
-  border-radius: 10px;
-  margin-top: 50px;
-  color: white;
-  display: flex;
-  justify-content: space-between;
-  margin-left: -100px;
-}
-
-.footer1 {
-  margin-left: 100px;
-}
-
-/* Add animation to marketing services */
-.marketing-container {
-  display: flex;
-  justify-content: space-around;
-  margin-top: 50px;
-  opacity: 0;
-  transform: translateY(100px);
-  transition: opacity 0.5s ease-out, transform 0.5s ease-out;
-}
-
-.marketing-container.visible {
-  opacity: 1;
-  transform: translateY(0);
-}
-
-.marketing1 h1 {
-  margin-bottom: 20px;
-}
-
-footer {
-  background-color: #111;
-  padding: 20px;
-  color: white;
-}
-
-.container {
-  min-height: 100vh;
-}
-/* General styles for the a tags */
-.menu ul li a {
-  color: white;
-  text-decoration: none;
-  font-family: "Poppins", sans-serif;
+.bgimg {
+  /* Background image */
+  background-image: url('/w3images/forestbridge.jpg');
+  /* Full-screen */
+  height: 100%;
+  /* Center the background image */
+  background-position: center;
+  /* Scale and zoom in the image */
+  background-size: cover;
+  /* Add position: relative to enable absolutely positioned elements inside the image (place text) */
   position: relative;
-  padding-bottom: 5px;
+  /* Add a white text color to all elements inside the .bgimg container */
+  color: white;
+  /* Add a font */
+  font-family: "Courier New", Courier, monospace;
+  /* Set the font-size to 25 pixels */
+  font-size: 25px;
 }
 
-/* Pseudo-element for the underline */
-.menu ul li a::after {
-  content: "";
+/* Position text in the top-left corner */
+.topleft {
   position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 0;
-  height: 2px;
-  background-color: white;
-  transition: width 0.3s ease-in-out;
+  top: 0;
+  left: 16px;
 }
 
-/* Hover effect to animate the underline from left to right */
-.menu ul li a:hover::after {
-  width: 100%;
+/* Position text in the bottom-left corner */
+.bottomleft {
+  position: absolute;
+  bottom: 0;
+  left: 16px;
+}
+
+/* Position text in the middle */
+.middle {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+/* Style the <hr> element */
+hr {
+  margin: auto;
+  width: 40%;
 }
