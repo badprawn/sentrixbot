@@ -2,6 +2,7 @@
 body{
   font-family: 'Poppins';
   background-color: black;
+  background-image: url('background.jpg');
 }
 
 body, html {
